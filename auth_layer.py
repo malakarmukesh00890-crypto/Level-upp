@@ -25,8 +25,8 @@ from templates import (
     HOME_HTML,
 )
 
-ADMIN_USERNAME = "VaixUdpLvL"
-ADMIN_PASSWORD = "Vai85Udp"
+ADMIN_USERNAME = "mukesh7878"
+ADMIN_PASSWORD = "mukesh678"
 ADMIN_PATH = "/admin/vaibhav/levelup/adm-dash"
 
 DATA_DIR = "data"
